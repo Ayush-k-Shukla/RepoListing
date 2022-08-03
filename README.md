@@ -2,6 +2,10 @@
 
     Search the Repositories for a particular username
 
+# Deployed Url
+
+[link](https://repolisting.netlify.app/)
+
 # How to run project locally
 
 1. <code>npm install</code> to install all node modules dependencies.
@@ -11,8 +15,9 @@
 # Functionality
 
 1. Search repositories for a username
-1. Pagination with limit of 10 repos per page
-1. Search repositories for a username
+2. Pagination with limit of 10 repos per page
+3. Profile information for that username
+4. Loader untill api is fulfilled.
 
 # Folder structure
 
