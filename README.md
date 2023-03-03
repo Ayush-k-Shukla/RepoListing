@@ -2,9 +2,6 @@
 
     Search the Repositories for a particular username
 
-# Deployed Url
-
-[link](https://repolisting.netlify.app/)
 
 # How to run project locally
 
